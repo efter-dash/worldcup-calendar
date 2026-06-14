@@ -98,227 +98,227 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-11
 DTSTAMP:20260613T000000Z
-DTSTART:20260617T150000Z
-DTEND:20260617T170000Z
-SUMMARY:⚽ England vs. Croatia
-LOCATION:AT&T Stadium (Dallas Stadium), Arlington, USA
-DESCRIPTION:Match No: 11\nStage: Group Stage\nGroup: Group L
+DTSTART:20260617T170000Z
+DTEND:20260617T190000Z
+SUMMARY:⚽ Portugal vs. DR Congo
+LOCATION:NRG Stadium (Houston Stadium), Houston, USA
+DESCRIPTION:Match No: 11\nStage: Group Stage\nGroup: Group K
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-12
 DTSTAMP:20260613T000000Z
-DTSTART:20260617T190000Z
-DTEND:20260617T210000Z
-SUMMARY:⚽ Portugal vs. Nigeria
-LOCATION:Estadio Banorte (Mexico City Stadium), Mexico City, Mexico
-DESCRIPTION:Match No: 12\nStage: Group Stage\nGroup: Group K
+DTSTART:20260617T200000Z
+DTEND:20260617T220000Z
+SUMMARY:⚽ England vs. Croatia
+LOCATION:AT&T Stadium (Dallas Stadium), Arlington, USA
+DESCRIPTION:Match No: 12\nStage: Group Stage\nGroup: Group L
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-13
 DTSTAMP:20260613T000000Z
-DTSTART:20260617T220000Z
-DTEND:20260618T000000Z
-SUMMARY:⚽ Italy vs. Chile
-LOCATION:Hard Rock Stadium (Miami Stadium), Miami Gardens, USA
-DESCRIPTION:Match No: 13\nStage: Group Stage\nGroup: Group L
+DTSTART:20260619T010000Z
+DTEND:20260619T030000Z
+SUMMARY:⚽ Mexico vs. South Korea
+LOCATION:Estadio Akron (Guadalajara Stadium), Zapopan, Mexico
+DESCRIPTION:Match No: 13\nStage: Group Stage\nGroup: Group A
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-14
 DTSTAMP:20260613T000000Z
-DTSTART:20260618T190000Z
-DTEND:20260618T210000Z
-SUMMARY:⚽ Mexico vs. Korea Republic
-LOCATION:Estadio Banorte (Mexico City Stadium), Mexico City, Mexico
-DESCRIPTION:Match No: 14\nStage: Group Stage\nGroup: Group A
+DTSTART:20260620T003000Z
+DTEND:20260620T023000Z
+SUMMARY:⚽ Brazil vs. Haiti
+LOCATION:Lincoln Financial Field (Philadelphia Stadium), Philadelphia, USA
+DESCRIPTION:Match No: 14\nStage: Group Stage\nGroup: Group C
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-15
 DTSTAMP:20260613T000000Z
-DTSTART:20260618T220000Z
-DTEND:20260619T000000Z
-SUMMARY:⚽ Colombia vs. Germany
-LOCATION:Mercedes-Benz Stadium (Atlanta Stadium), Atlanta, USA
-DESCRIPTION:Match No: 15\nStage: Group Stage\nGroup: Group E
+DTSTART:20260620T170000Z
+DTEND:20260620T190000Z
+SUMMARY:⚽ Netherlands vs. Sweden
+LOCATION:NRG Stadium (Houston Stadium), Houston, USA
+DESCRIPTION:Match No: 15\nStage: Group Stage\nGroup: Group F
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-16
 DTSTAMP:20260613T000000Z
-DTSTART:20260619T190000Z
-DTEND:20260619T210000Z
-SUMMARY:⚽ Canada vs. Bosnia & Herzegovina
-LOCATION:BC Place (Vancouver Stadium), Vancouver, Canada
-DESCRIPTION:Match No: 16\nStage: Group Stage\nGroup: Group B
+DTSTART:20260620T200000Z
+DTEND:20260620T220000Z
+SUMMARY:⚽ Germany vs. Ivory Coast
+LOCATION:BMO Field (Toronto Stadium), Toronto, Canada
+DESCRIPTION:Match No: 16\nStage: Group Stage\nGroup: Group E
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-17
 DTSTAMP:20260613T000000Z
-DTSTART:20260619T220000Z
-DTEND:20260620T000000Z
-SUMMARY:⚽ Brazil vs. Jamaica
-LOCATION:Gillette Stadium (Boston Stadium), Foxborough, USA
-DESCRIPTION:Match No: 17\nStage: Group Stage\nGroup: Group C
+DTSTART:20260621T160000Z
+DTEND:20260621T180000Z
+SUMMARY:⚽ Spain vs. Saudi Arabia
+LOCATION:Mercedes-Benz Stadium (Atlanta Stadium), Atlanta, USA
+DESCRIPTION:Match No: 17\nStage: Group Stage\nGroup: Group H
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-18
 DTSTAMP:20260613T000000Z
-DTSTART:20260620T190000Z
-DTEND:20260620T210000Z
-SUMMARY:⚽ USA vs. Paraguay
-LOCATION:Levi's Stadium (San Francisco Bay Area Stadium), Santa Clara, USA
-DESCRIPTION:Match No: 18\nStage: Group Stage\nGroup: Group D
+DTSTART:20260621T180000Z
+DTEND:20260621T200000Z
+SUMMARY:⚽ Belgium vs. Iran
+LOCATION:SoFi Stadium (Los Angeles Stadium), Los Angeles, USA
+DESCRIPTION:Match No: 18\nStage: Group Stage\nGroup: Group G
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-19
 DTSTAMP:20260613T000000Z
-DTSTART:20260620T220000Z
-DTEND:20260621T000000Z
-SUMMARY:⚽ Netherlands vs. Ghana
-LOCATION:NRG Stadium (Houston Stadium), Houston, USA
-DESCRIPTION:Match No: 19\nStage: Group Stage\nGroup: Group F
+DTSTART:20260621T220000Z
+DTEND:20260622T000000Z
+SUMMARY:⚽ Uruguay vs. Cape Verde
+LOCATION:Hard Rock Stadium (Miami Stadium), Miami Gardens, USA
+DESCRIPTION:Match No: 19\nStage: Group Stage\nGroup: Group H
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-20
 DTSTAMP:20260613T000000Z
-DTSTART:20260621T180000Z
-DTEND:20260621T200000Z
-SUMMARY:⚽ Belgium vs. Australia
-LOCATION:Lincoln Financial Field (Philadelphia Stadium), Philadelphia, USA
+DTSTART:20260622T010000Z
+DTEND:20260622T030000Z
+SUMMARY:⚽ New Zealand vs. Egypt
+LOCATION:BC Place (Vancouver Stadium), Vancouver, Canada
 DESCRIPTION:Match No: 20\nStage: Group Stage\nGroup: Group G
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-21
 DTSTAMP:20260613T000000Z
-DTSTART:20260621T210000Z
-DTEND:20260621T230000Z
-SUMMARY:⚽ Spain vs. Uruguay
-LOCATION:Hard Rock Stadium (Miami Stadium), Miami Gardens, USA
-DESCRIPTION:Match No: 21\nStage: Group Stage\nGroup: Group H
+DTSTART:20260622T170000Z
+DTEND:20260622T190000Z
+SUMMARY:⚽ Argentina vs. Austria
+LOCATION:Levi's Stadium (San Francisco Bay Area Stadium), Santa Clara, USA
+DESCRIPTION:Match No: 21\nStage: Group Stage\nGroup: Group J
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-22
 DTSTAMP:20260613T000000Z
-DTSTART:20260622T180000Z
-DTEND:20260622T200000Z
-SUMMARY:⚽ France vs. Norway
-LOCATION:AT&T Stadium (Dallas Stadium), Arlington, USA
+DTSTART:20260622T210000Z
+DTEND:20260622T230000Z
+SUMMARY:⚽ France vs. Iraq
+LOCATION:Lincoln Financial Field (Philadelphia Stadium), Philadelphia, USA
 DESCRIPTION:Match No: 22\nStage: Group Stage\nGroup: Group I
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-23
 DTSTAMP:20260613T000000Z
-DTSTART:20260622T210000Z
-DTEND:20260622T230000Z
-SUMMARY:⚽ Argentina vs. Ukraine
-LOCATION:Lincoln Financial Field (Philadelphia Stadium), Philadelphia, USA
-DESCRIPTION:Match No: 23\nStage: Group Stage\nGroup: Group J
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:⚽ Norway vs. Senegal
+LOCATION:MetLife Stadium (New York New Jersey Stadium), East Rutherford, USA
+DESCRIPTION:Match No: 23\nStage: Group Stage\nGroup: Group I
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-24
 DTSTAMP:20260613T000000Z
-DTSTART:20260623T180000Z
-DTEND:20260623T200000Z
-SUMMARY:⚽ Portugal vs. Ecuador
-LOCATION:MetLife Stadium (New York New Jersey Stadium), East Rutherford, USA
+DTSTART:20260623T170000Z
+DTEND:20260623T190000Z
+SUMMARY:⚽ Portugal vs. Uzbekistan
+LOCATION:NRG Stadium (Houston Stadium), Houston, USA
 DESCRIPTION:Match No: 24\nStage: Group Stage\nGroup: Group K
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-25
 DTSTAMP:20260613T000000Z
-DTSTART:20260623T210000Z
-DTEND:20260623T230000Z
-SUMMARY:⚽ England vs. Italy
-LOCATION:Lumen Field (Seattle Stadium), Seattle, USA
+DTSTART:20260623T200000Z
+DTEND:20260623T220000Z
+SUMMARY:⚽ England vs. Ghana
+LOCATION:Gillette Stadium (Boston Stadium), Foxborough, USA
 DESCRIPTION:Match No: 25\nStage: Group Stage\nGroup: Group L
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-26
 DTSTAMP:20260613T000000Z
-DTSTART:20260624T180000Z
-DTEND:20260624T200000Z
-SUMMARY:⚽ South Africa vs. Korea Republic
-LOCATION:Estadio Banorte (Mexico City Stadium), Mexico City, Mexico
-DESCRIPTION:Match No: 26\nStage: Group Stage\nGroup: Group A
+DTSTART:20260623T230000Z
+DTEND:20260624T010000Z
+SUMMARY:⚽ Panama vs. Croatia
+LOCATION:BMO Field (Toronto Stadium), Toronto, Canada
+DESCRIPTION:Match No: 26\nStage: Group Stage\nGroup: Group L
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-27
 DTSTAMP:20260613T000000Z
-DTSTART:20260624T210000Z
-DTEND:20260624T230000Z
-SUMMARY:⚽ Mexico vs. Czechia
-LOCATION:Estadio Akron (Guadalajara Stadium), Zapopan, Mexico
-DESCRIPTION:Match No: 27\nStage: Group Stage\nGroup: Group A
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:⚽ Switzerland vs. Canada
+LOCATION:BC Place (Vancouver Stadium), Vancouver, Canada
+DESCRIPTION:Match No: 27\nStage: Group Stage\nGroup: Group B
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-28
 DTSTAMP:20260613T000000Z
-DTSTART:20260625T180000Z
-DTEND:20260625T200000Z
-SUMMARY:⚽ Morocco vs. Jamaica
-LOCATION:Lincoln Financial Field (Philadelphia Stadium), Philadelphia, USA
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:⚽ Scotland vs. Brazil
+LOCATION:Hard Rock Stadium (Miami Stadium), Miami Gardens, USA
 DESCRIPTION:Match No: 28\nStage: Group Stage\nGroup: Group C
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-29
 DTSTAMP:20260613T000000Z
-DTSTART:20260625T210000Z
-DTEND:20260625T230000Z
-SUMMARY:⚽ Brazil vs. Austria
-LOCATION:GEHA Field at Arrowhead Stadium (Kansas City Stadium), Kansas City, USA
-DESCRIPTION:Match No: 29\nStage: Group Stage\nGroup: Group C
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:⚽ Ecuador vs. Germany
+LOCATION:MetLife Stadium (New York New Jersey Stadium), East Rutherford, USA
+DESCRIPTION:Match No: 29\nStage: Group Stage\nGroup: Group E
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-30
 DTSTAMP:20260613T000000Z
-DTSTART:20260626T190000Z
-DTEND:20260626T210000Z
-SUMMARY:⚽ Oman vs. USA
-LOCATION:Lumen Field (Seattle Stadium), Seattle, USA
-DESCRIPTION:Match No: 30\nStage: Group Stage\nGroup: Group D
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:⚽ Japan vs. Sweden
+LOCATION:AT&T Stadium (Dallas Stadium), Arlington, USA
+DESCRIPTION:Match No: 30\nStage: Group Stage\nGroup: Group F
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-31
 DTSTAMP:20260613T000000Z
-DTSTART:20260626T220000Z
-DTEND:20260627T000000Z
-SUMMARY:⚽ Peru vs. Netherlands
-LOCATION:Mercedes-Benz Stadium (Atlanta Stadium), Atlanta, USA
-DESCRIPTION:Match No: 31\nStage: Group Stage\nGroup: Group F
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:⚽ Norway vs. France
+LOCATION:GEHA Field at Arrowhead Stadium (Kansas City Stadium), Kansas City, USA
+DESCRIPTION:Match No: 31\nStage: Group Stage\nGroup: Group I
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-32
 DTSTAMP:20260613T000000Z
-DTSTART:20260627T140000Z
-DTEND:20260627T160000Z
-SUMMARY:⚽ Egypt vs. Australia
-LOCATION:Gillette Stadium (Boston Stadium), Foxborough, USA
-DESCRIPTION:Match No: 32\nStage: Group Stage\nGroup: Group G
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:⚽ Uruguay vs. Spain
+LOCATION:Hard Rock Stadium (Miami Stadium), Miami Gardens, USA
+DESCRIPTION:Match No: 32\nStage: Group Stage\nGroup: Group H
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-33
 DTSTAMP:20260613T000000Z
-DTSTART:20260627T170000Z
-DTEND:20260627T190000Z
-SUMMARY:⚽ Belgium vs. New Zealand
-LOCATION:Lincoln Financial Field (Philadelphia Stadium), Philadelphia, USA
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:⚽ New Zealand vs. Belgium
+LOCATION:Gillette Stadium (Boston Stadium), Foxborough, USA
 DESCRIPTION:Match No: 33\nStage: Group Stage\nGroup: Group G
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-34
 DTSTAMP:20260613T000000Z
-DTSTART:20260627T200000Z
-DTEND:20260627T220000Z
-SUMMARY:⚽ Senegal vs. Iraq
-LOCATION:MetLife Stadium (New York New Jersey Stadium), East Rutherford, USA
-DESCRIPTION:Match No: 34\nStage: Group Stage\nGroup: Group I
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:⚽ Croatia vs. Ghana
+LOCATION:GEHA Field at Arrowhead Stadium (Kansas City Stadium), Kansas City, USA
+DESCRIPTION:Match No: 34\nStage: Group Stage\nGroup: Group L
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-35
 DTSTAMP:20260613T000000Z
-DTSTART:20260627T230000Z
-DTEND:20260628T010000Z
-SUMMARY:⚽ France vs. Sweden
-LOCATION:BC Place (Vancouver Stadium), Vancouver, Canada
-DESCRIPTION:Match No: 35\nStage: Group Stage\nGroup: Group I
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:⚽ Colombia vs. Portugal
+LOCATION:Estadio Akron (Guadalajara Stadium), Zapopan, Mexico
+DESCRIPTION:Match No: 35\nStage: Group Stage\nGroup: Group K
 END:VEVENT
 BEGIN:VEVENT
 UID:fwc2026-match-36
